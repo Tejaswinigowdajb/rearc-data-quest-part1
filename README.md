@@ -45,14 +45,15 @@ s3:PutObject, s3:GetObject, s3:HeadObject, s3:ListBucket on your bucket
 
 **Uploaded Files in S3**
 
-pr.data.0.Current
-https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.data.0.Current
+**pr.data.0.Current**
+[https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.data.0.Current
+](https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.data.0.Current)
 
-pr.series
-https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.data.1.AllData
+**pr.series**
+[https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.series
+](https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.series)
 
-pr.data.1.AllData
-https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.series
-
-
+**pr.data.1.AllData**
+[https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.data.1.AllData
+](https://rearc-data-quest-bls-02.s3.eu-north-1.amazonaws.com/bls_data/pr.data.1.AllData)
 
